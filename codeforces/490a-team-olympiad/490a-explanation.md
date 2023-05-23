@@ -17,5 +17,4 @@ OBS: o codeforces pede, além do número acima, formações possíveis de cada e
 
 A propriedade de escolha gulosa que escolhemos é: para uma criança C1, cujo talento é programação, agrupe-a com a primeira criança C2 (cujo talento é matemática) e a primeira criança C3 (cujo talento é educação física) que aparecer. 
 
-Para tanto, vamos ter uma lista de crianças para cada categoria de talentos. Vamos iterar nas 3 listas e agrupar as 3 primeiras crianças que aparecerem em cada lista. 
-
+Para tanto, vamos ter uma lista de crianças para cada categoria de talentos. Vamos iterar nas 3 listas e agrupar as 3 primeiras crianças que aparecerem em cada lista. Para cada equipe nova, vamos adicionar 1 ao número máximo de equipes. A iteração termina quando todas as crianças da categoria com o menor número de crianças forem alocadas numa equipe.
