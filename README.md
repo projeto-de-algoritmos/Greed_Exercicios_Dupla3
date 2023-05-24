@@ -23,6 +23,9 @@ Questões sobre Algorítimos Ambiciosos resolvidos.
 
 ![image](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla3/assets/54439337/6e50fb1e-24f0-4117-922d-599ba3c35dfe)
 
+- [2048](https://codeforces.com/contest/1221/problem/A)
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla3/assets/54439337/cf3d16a3-6d46-42e0-b6c4-185f42f869b9)
 
 ## Link Vídeo
 
