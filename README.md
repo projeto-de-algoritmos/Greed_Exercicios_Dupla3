@@ -21,6 +21,9 @@ Questões sobre Algorítimos Ambiciosos resolvidos.
 
 - [Guerra](https://www.beecrowd.com.br/judge/pt/problems/view/2095)
 
+![image](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla3/assets/54439337/6e50fb1e-24f0-4117-922d-599ba3c35dfe)
+
+
 ## Link Vídeo
 
 - [Vídeo de Apresentação]()
