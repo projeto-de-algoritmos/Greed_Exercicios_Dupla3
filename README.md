@@ -31,6 +31,14 @@ Questões sobre Algorítimos Ambiciosos resolvidos.
 
 ![image](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla3/assets/54439337/30f24474-ab12-4389-9965-d62567db06f2)
 
+- [Team Olympiad](https://codeforces.com/problemset/problem/490/A)
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla3/assets/54439337/340234bc-4ba4-4f99-aa68-be40f6e04a0e)
+
+- [Two Arrays and Swaps](https://codeforces.com/problemset/problem/1353/B)
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla3/assets/54439337/bb982996-3e68-4ff6-9c33-7943d3bae504)
+
 ## Link Vídeo
 
 - [Vídeo de Apresentação]()
