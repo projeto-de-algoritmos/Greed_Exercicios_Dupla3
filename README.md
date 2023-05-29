@@ -41,4 +41,4 @@ Questões sobre Algorítimos Ambiciosos resolvidos.
 
 ## Link Vídeo
 
-- [Vídeo de Apresentação]()
+- [Vídeo de Apresentação](https://youtu.be/4H4RQO-Yy1Y)
